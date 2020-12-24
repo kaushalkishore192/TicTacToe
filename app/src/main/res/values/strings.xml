@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="Tic_tac_toe">Tic Tac Toe </string>
+    <string name="choose_opponent">Choose Opponent</string>
+    <string name="developed_by">Developed by Kaushal</string>
+    <string name="computer_name">Computer</string>
+    <string name="player_name">Friend</string>
+
+    <string name="heading">Welcome to Tic Tac Toe</string>
+    <string name="player_x_turn">Player- X Turn </string>
+    <string name="player_o_turn">Player- O Turn </string>
+    <string name="match_tie">!!! Match Tie !!! </string>
+    <string name="title_activity_game_level_hard">GameActivityLevelHard</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+</resources>
